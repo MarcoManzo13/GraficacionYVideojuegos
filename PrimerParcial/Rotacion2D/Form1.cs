@@ -125,7 +125,49 @@ namespace Actividad3
 
         private void button3_Click(object sender, EventArgs e)
         {
+            // Crear el ángulo de rotación, double por que se usa sin y cos y PI
+            double angulo = double.Parse(textBox1.Text);
 
+            // Convertir el ángulo a radianes por que al parecer C# le gustan más los radianes, double por que se usa sin y cos y PI
+            double anguloRadianes = (Math.PI / 180) * angulo;
+
+            // Calcular la mitad del pcitureBox1
+            float hHeight = pictureBox1.Height / 2f;
+            float hWidth = pictureBox1.Width / 2f;
+
+            // Coordenadas del cuadrado, creo que esta manera es mejor que las anteriores, pero no estoy seguro.
+            int x1 = (int)hWidth;
+            int y1 = (int)hHeight;
+            int x2 = (int)hWidth + 100;
+            int y2 = (int)hHeight - 100;
+
+            // Calcular el centro del cuadrado
+            Point centro = new Point((x1 + x2) / 2, (y1 + y2) / 2);
+
+            // Para borrar el cuadrado anterior: Se rellena todo el canvas de nuevo pero le da la ilusión de que se borró el cuadrado :)
+            g.FillRectangle(Brushes.Black, 0, 0, pictureBox1.Width, pictureBox1.Height);
+
+            // Para dibujar las líneas amarillas que dan la referencia al origen
+            g.DrawLine(Pens.Yellow, new Point(0, (int)hHeight), new Point(pictureBox1.Width, (int)hHeight));
+            g.DrawLine(Pens.Yellow, new Point((int)hWidth, 0), new Point((int)hWidth, pictureBox1.Height));
+
+            // Calcular el nuevo valor de las coordenadas para el cuadrado, usando las coordenadas ya no hay que sumar y restar 50, 25 o 100. Pero estuvo más confuso de hacer.
+            Point lineaRoja1 = RotatePoint(new Point(x1, y1), centro, anguloRadianes);
+            Point lineaRoja2 = RotatePoint(new Point(x2, y1), centro, anguloRadianes);
+            Point lineaRoja3 = RotatePoint(new Point(x1, y1), centro, anguloRadianes);
+            Point lineaRoja4 = RotatePoint(new Point(x1, y2), centro, anguloRadianes);
+            Point lineaBlanca1 = RotatePoint(new Point(x2, y1), centro, anguloRadianes);
+            Point lineaBlanca2 = RotatePoint(new Point(x2, y2), centro, anguloRadianes);
+            Point lineaBlanca3 = RotatePoint(new Point(x1, y2), centro, anguloRadianes);
+            Point lineaBlanca4 = RotatePoint(new Point(x2, y2), centro, anguloRadianes);
+
+            // Dibujar el cuadrado en las nuevas coordenadas, lo dividí en blanco y rojo para ver mejor la rotación
+            g.DrawLine(Pens.Red, lineaRoja1, lineaRoja2);
+            g.DrawLine(Pens.Red, lineaRoja3, lineaRoja4);
+            g.DrawLine(Pens.White, lineaBlanca1, lineaBlanca2);
+            g.DrawLine(Pens.White, lineaBlanca3, lineaBlanca4);
+
+            pictureBox1.Refresh();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
