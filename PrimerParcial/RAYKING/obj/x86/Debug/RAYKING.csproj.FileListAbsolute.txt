@@ -1,0 +1,26 @@
+E:\DOCS\CLASES\VIDEOJUEGOS\003 RAYCASTER\CASTER\RAYKING\RAYKING\obj\x86\Debug\RAYKING.Properties.Resources.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\003 RAYCASTER\CASTER\RAYKING\RAYKING\obj\x86\Debug\RAYKING.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\VIDEOJUEGOS\003 RAYCASTER\CASTER\RAYKING\RAYKING\bin\Debug\RAYKING.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\003 RAYCASTER\CASTER\RAYKING\RAYKING\bin\Debug\RAYKING.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\003 RAYCASTER\CASTER\RAYKING\RAYKING\obj\x86\Debug\RAYKING.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\003 RAYCASTER\CASTER\RAYKING\RAYKING\obj\x86\Debug\RAYKING.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\003 RAYCASTER\CASTER\RAYKING\RAYKING\obj\x86\Debug\RAYKING.MyForm.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\RAYKING\RAYKING\obj\x86\Debug\RAYKING.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\RAYKING\RAYKING\obj\x86\Debug\RAYKING.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\RAYKING\RAYKING\bin\Debug\RAYKING.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\RAYKING\RAYKING\bin\Debug\RAYKING.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\RAYKING\RAYKING\obj\x86\Debug\RAYKING.csprojResolveAssemblyReference.cache
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\RAYKING\RAYKING\obj\x86\Debug\RAYKING.MyForm.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\RAYKING\RAYKING\obj\x86\Debug\RAYKING.Properties.Resources.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\RAYKING\RAYKING\obj\x86\Debug\RAYKING.csproj.GenerateResource.Cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\RAYKING\bin\Debug\RAYKING.exe.config
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\RAYKING\bin\Debug\RAYKING.exe
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\RAYKING\bin\Debug\RAYKING.pdb
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\RAYKING\obj\x86\Debug\RAYKING.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\RAYKING\obj\x86\Debug\RAYKING.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\RAYKING\obj\x86\Debug\RAYKING.MyForm.resources
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\RAYKING\obj\x86\Debug\RAYKING.Properties.Resources.resources
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\RAYKING\obj\x86\Debug\RAYKING.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\RAYKING\obj\x86\Debug\RAYKING.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\RAYKING\obj\x86\Debug\RAYKING.exe
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\RAYKING\obj\x86\Debug\RAYKING.pdb

@@ -1,0 +1,23 @@
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\acctiv 1 lab\acctiv 1 lab\bin\Debug\acctiv 1 lab.exe.config
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\acctiv 1 lab\acctiv 1 lab\bin\Debug\acctiv 1 lab.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\acctiv 1 lab\acctiv 1 lab\bin\Debug\acctiv 1 lab.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv 1 lab.csproj.AssemblyReference.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv_1_lab.MAIN_FORM.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv_1_lab.Properties.Resources.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv_1_lab.Resource1.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv 1 lab.csproj.GenerateResource.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv 1 lab.csproj.CoreCompileInputs.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv 1 lab.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv 1 lab.pdb
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\bin\Debug\acctiv 1 lab.exe.config
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\bin\Debug\acctiv 1 lab.exe
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\bin\Debug\acctiv 1 lab.pdb
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv 1 lab.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv 1 lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv_1_lab.MAIN_FORM.resources
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv_1_lab.Properties.Resources.resources
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv_1_lab.Resource1.resources
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv 1 lab.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv 1 lab.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv 1 lab.exe
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Mario2D\acctiv 1 lab\acctiv 1 lab\obj\Debug\acctiv 1 lab.pdb
