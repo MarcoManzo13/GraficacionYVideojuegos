@@ -9,6 +9,7 @@ C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Actividad3\obj\Debug\Activ
 C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Actividad3\obj\Debug\Actividad3.csproj.CoreCompileInputs.cache
 C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Actividad3\obj\Debug\Actividad3.exe
 C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Actividad3\obj\Debug\Actividad3.pdb
+<<<<<<< HEAD
 C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Rotacion2D\bin\Debug\Actividad3.exe.config
 C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Rotacion2D\bin\Debug\Actividad3.exe
 C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Rotacion2D\bin\Debug\Actividad3.pdb
@@ -20,3 +21,16 @@ C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos
 C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Rotacion2D\obj\Debug\Actividad3.csproj.CoreCompileInputs.cache
 C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Rotacion2D\obj\Debug\Actividad3.exe
 C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\Rotacion2D\obj\Debug\Actividad3.pdb
+=======
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\Rotacion2D\bin\Debug\Actividad3.exe.config
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\Rotacion2D\bin\Debug\Actividad3.exe
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\Rotacion2D\bin\Debug\Actividad3.pdb
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\Rotacion2D\obj\Debug\Actividad3.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\Rotacion2D\obj\Debug\Actividad3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\Rotacion2D\obj\Debug\Actividad3.Form1.resources
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\Rotacion2D\obj\Debug\Actividad3.Properties.Resources.resources
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\Rotacion2D\obj\Debug\Actividad3.csproj.GenerateResource.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\Rotacion2D\obj\Debug\Actividad3.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\Rotacion2D\obj\Debug\Actividad3.exe
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\Rotacion2D\obj\Debug\Actividad3.pdb
+>>>>>>> b05e5e07d9e26a06fd9324ee5a4403e91cc4fe70

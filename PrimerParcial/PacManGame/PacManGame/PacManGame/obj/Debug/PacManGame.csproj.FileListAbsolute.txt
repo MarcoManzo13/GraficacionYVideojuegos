@@ -1,0 +1,23 @@
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\bin\Debug\PacManGame.exe.config
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\bin\Debug\PacManGame.exe
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\bin\Debug\PacManGame.pdb
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.Form1.resources
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.Properties.Resources.resources
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.GenerateResource.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.exe
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.pdb
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\bin\Debug\PacManGame.exe.config
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\bin\Debug\PacManGame.exe
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\bin\Debug\PacManGame.pdb
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.Form1.resources
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.Properties.Resources.resources
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.exe
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.pdb
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\PacManGame\PacManGame\PacManGame\obj\Debug\PacManGame.GIFS.resources

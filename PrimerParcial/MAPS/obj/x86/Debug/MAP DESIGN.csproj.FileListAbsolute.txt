@@ -1,0 +1,4 @@
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\MAPS\obj\x86\Debug\MAP DESIGN.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\MAPS\obj\x86\Debug\MAP DESIGN.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\MAPS\obj\x86\Debug\Caster.MapDesigner.resources
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\PrimerParcial\MAPS\obj\x86\Debug\MAP DESIGN.csproj.GenerateResource.cache

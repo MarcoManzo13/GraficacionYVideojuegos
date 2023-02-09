@@ -1,0 +1,8 @@
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\Caster.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\Caster.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\bin\Debug\Caster.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\bin\Debug\Caster.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\MAP DESIGN.csprojResolveAssemblyReference.cache
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\Caster.MapDesigner.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\Caster.Properties.Resources.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\004 RAYCAST\CASTER\Caster\Caster\obj\x86\Debug\MAP DESIGN.csproj.GenerateResource.Cache
