@@ -74,13 +74,16 @@ namespace Actividad3
             g.DrawLine(Pens.Yellow, new Point(0, (int)hHeight), new Point(pictureBox1.Width, (int)hHeight));
             g.DrawLine(Pens.Yellow, new Point((int)hWidth, 0), new Point((int)hWidth, pictureBox1.Height));
 
-            // Calcular el nuevo valor de las coordenadas para el cuadrado
+            // Calcular el nuevo valor de las coordenadas para los puntos del cuadrado
             Point lineaRoja1 = RotatePoint(new Point((int)hWidth, (int)hHeight), centro, anguloRadianes); 
             Point lineaRoja2 = RotatePoint(new Point((int)(hWidth + 100), (int)hHeight), centro, anguloRadianes);
+
             Point lineaRoja3 = RotatePoint(new Point((int)hWidth, (int)hHeight), centro, anguloRadianes);
             Point lineaRoja4 = RotatePoint(new Point((int)(hWidth), (int)(hHeight - 100)), centro, anguloRadianes);
+
             Point lineaBlanca1 = RotatePoint(new Point((int)hWidth + 100, (int)hHeight), centro, anguloRadianes);
             Point lineaBlanca2 = RotatePoint(new Point((int)(hWidth + 100), (int)hHeight - 100), centro, anguloRadianes);
+
             Point lineaBlanca3 = RotatePoint(new Point((int)hWidth, (int)(hHeight - 100)), centro, anguloRadianes);
             Point lineaBlanca4 = RotatePoint(new Point((int)(hWidth + 100), (int)(hHeight - 100)), centro, anguloRadianes);
 

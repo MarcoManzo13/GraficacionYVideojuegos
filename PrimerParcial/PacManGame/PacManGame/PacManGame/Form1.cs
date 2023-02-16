@@ -958,7 +958,7 @@ namespace PacManGame
                 level++;
                 right = false;
                 left = false;
-                up = false;
+                up = false;                 
                 down = false;
                 DrawMap();
             }

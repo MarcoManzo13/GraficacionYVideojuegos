@@ -1,0 +1,21 @@
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Colition\Colition\obj\Debug\Colition.csproj.AssemblyReference.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Colition\Colition\obj\Debug\Colition.Form1.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Colition\Colition\obj\Debug\Colition.Properties.Resources.resources
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Colition\Colition\obj\Debug\Colition.csproj.GenerateResource.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Colition\Colition\obj\Debug\Colition.csproj.CoreCompileInputs.cache
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Colition\Colition\bin\Debug\Colition.exe.config
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Colition\Colition\bin\Debug\Colition.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Colition\Colition\bin\Debug\Colition.pdb
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Colition\Colition\obj\Debug\Colition.exe
+C:\Users\zunqu\Desktop\cosas de la escuela\sexto semestre\lab. videojuegos\Colition\Colition\obj\Debug\Colition.pdb
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\SegundoParcial\Colition\Colition\bin\Debug\Colition.exe.config
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\SegundoParcial\Colition\Colition\bin\Debug\Colition.exe
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\SegundoParcial\Colition\Colition\bin\Debug\Colition.pdb
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\SegundoParcial\Colition\Colition\obj\Debug\Colition.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\SegundoParcial\Colition\Colition\obj\Debug\Colition.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\SegundoParcial\Colition\Colition\obj\Debug\Colition.Form1.resources
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\SegundoParcial\Colition\Colition\obj\Debug\Colition.Properties.Resources.resources
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\SegundoParcial\Colition\Colition\obj\Debug\Colition.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\SegundoParcial\Colition\Colition\obj\Debug\Colition.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\SegundoParcial\Colition\Colition\obj\Debug\Colition.exe
+C:\Users\marco\OneDrive\Documentos\Udlap\5to Semestre\Graficación y Videojuegos\SegundoParcial\Colition\Colition\obj\Debug\Colition.pdb
